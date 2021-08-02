@@ -1,0 +1,49 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/834/602/559/computer-keyboards-wallpaper-preview.jpg");
+}
+
+p{
+    color: white;
+
+}
+
+.navbar{
+    width: 100%;
+    height: 10%;
+    color: white;
+}
+
+nav .navbar-nav li a{
+    color: white !important;
+}
+
+.navbar-light .navbar-brand{
+    padding: 20px;
+    color: yellow;
+}
+
+.navbar-light .navbar-brand:hover{
+    color: yellow;
+}
+
+.navbar-light{
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.navbar-nav{
+    padding: 20px;
+}
+
+.navbar-light .navbar-toggler{
+    background-color: white;
+}
+
+p{
+    padding: 50px;
+    margin: 20px;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
